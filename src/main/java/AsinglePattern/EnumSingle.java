@@ -1,4 +1,4 @@
-package singlePattern;
+package AsinglePattern;
 
 /**
  * Demo EnumSingle
